@@ -1,0 +1,13 @@
+{
+  "log_level": "INFO",
+  "concurrency": 8,
+  "timeout": 20,
+  "min_image_bytes": 1024,
+  "user_agent": "BulkImageDownloader/1.0 (+https://bitbash.dev)",
+  "keep_workspace": false,
+  "proxies": {
+    "use_proxies": false,
+    "http": "",
+    "https": ""
+  }
+}
